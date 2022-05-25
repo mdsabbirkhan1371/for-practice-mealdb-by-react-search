@@ -1,0 +1,9 @@
+.meal {
+    border: 2px solid greenyellow;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.meal img {
+    height: 200px;
+}
